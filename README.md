@@ -17,7 +17,7 @@ Real-time cross-sectional stock nowcasting project initiated by Zefeng Chen and 
 
 ## 📝 Abstract
 
-Can fully agentic AI nowcast stock returns? We deploy a state-of-the-art Large Language Model to evaluate the attractiveness of each Russell 1000 stock daily, starting from April 2025 when AI web interfaces first enabled real-time search.
+Can fully agentic AI nowcast stock returns? We deploy a state-of-the-art Large Language Model to evaluate the attractiveness of each Russell 1000 stock daily, starting from April 2025 when AI web interfaces enabled real-time search.
 
 Our framework is **100% agentic**: we do not feed the model news or curated text; it autonomously searches the web, filters sources, and synthesizes information into quantitative predictions. We find that AI possesses genuine stock selection ability, particularly for identifying top winners. Longing the 20 highest-ranked stocks generates a daily Fama-French five-factor alpha of **18.4 basis points** and an annualized Sharpe ratio of **2.43**.
 
@@ -25,8 +25,8 @@ Our framework is **100% agentic**: we do not feed the model news or curated text
 ---
 
 ## ⚙️ Methodology
-
-* **Universe:** Russell 1000 (~93% of US Equity Market Cap).
+* **Time:** Every trading day before market opens.
+* **Universe:** All Individual Stock in Russell 1000 (~93% of US Equity Market Cap).
 * **Mechanism:** Agentic Workflow. The AI autonomously generates search queries, browses the live web, and synthesizes data.
 * **Constraint:** Strict Nowcasting. All predictions are generated after market close ($t-1$) and before market open ($t$) to eliminate look-ahead bias.
 * **Signal:** An attractiveness score ranging from -5 (Strong Sell) to +5 (Strong Buy).
