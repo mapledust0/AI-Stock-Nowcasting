@@ -26,7 +26,7 @@ Our framework is **100% agentic**: we do not feed the model news or curated text
 
 ## ⚙️ Methodology
 * **Time:** Every trading day before market opens.
-* **Universe:** All Individual Stock in Russell 1000 (~93% of US Equity Market Cap).
+* **Universe:** All Individual Stocks in Russell 1000 (~93% of US Equity Market Cap).
 * **Mechanism:** Agentic Workflow. The AI autonomously generates search queries, browses the live web, and synthesizes data.
 * **Constraint:** Strict Nowcasting. All predictions are generated after market close ($t-1$) and before market open ($t$) to eliminate look-ahead bias.
 * **Signal:** An attractiveness score ranging from -5 (Strong Sell) to +5 (Strong Buy).
