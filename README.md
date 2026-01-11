@@ -35,7 +35,7 @@ Our framework is **100% agentic**: we do not feed the model news or curated text
 
 ## 📊 Interactive Visualization
 
-**[👉 Click here to launch the Interactive Portfolio Simulator](https://mapledust0.github.io/AI-Stock-Nowcasting/plot.html)**
+**[👉 Click here to launch the Interactive Portfolio Return Figure](https://mapledust0.github.io/AI-Stock-Nowcasting/plot.html)**
 
 This project hosts the interactive results for the paper *Autonomous Market Intelligence*. The visualization allows users to explore the **Top-N Portfolio Returns** dynamically.
 
@@ -46,7 +46,9 @@ This project hosts the interactive results for the paper *Autonomous Market Inte
 
 ---
 
-![Top 20 Value-Weighted Portfolio Cumulative Return](cumret_daily_top20_vw.png)
+### Static Figure: Top-20 Value-Weighted Portfolio Cumulative Return
+
+![Top-20 Value-Weighted Portfolio Cumulative Return](cumret_daily_top20_vw.png)
 
 ---
 
@@ -61,7 +63,7 @@ The predictive power is not symmetric. While the AI excels at identifying opport
 > *"We hypothesize that this asymmetry reflects online information structure: genuinely positive news generates coherent signals, while negative news is contaminated by strategic corporate obfuscation."*
 
 ### 3. Alpha Dilution
-The interactive plot demonstrates a critical insight: **predictability is highly concentrated.** Expanding the portfolio beyond the top tier (e.g., moving from Top 20 to Top 100) rapidly dilutes alpha.
+The interactive plot demonstrates a critical insight: **predictability is highly concentrated.** Expanding the portfolio beyond the top tier (e.g., moving from Top 20 to Top 200) dilutes alpha.
 
 ---
 
