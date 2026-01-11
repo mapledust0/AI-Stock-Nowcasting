@@ -30,6 +30,7 @@ Our framework is **100% agentic**: we do not feed the model news or curated text
 * **Mechanism:** Agentic Workflow. The AI autonomously generates search queries, browses the live web, and synthesizes data.
 * **Constraint:** Strict Nowcasting. All predictions are generated after market close ($t-1$) and before market open ($t$) to eliminate look-ahead bias.
 * **Signal:** An attractiveness score ranging from -5 (Strong Sell) to +5 (Strong Buy).
+* **Implementation:** Entering position at opening auction of day t and liquidating at opening auction of day t+1. 
 
 ---
 
