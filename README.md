@@ -32,6 +32,8 @@ Our framework is **100% agentic**: we do not feed the model news or curated text
 * **Signal:** An attractiveness score ranging from -5 (Strong Sell) to +5 (Strong Buy).
 * **Implementation:** Entering position at opening auction of day t and liquidating at opening auction of day t+1. 
 
+[View today's Top 20 Firms](currenttop20.md)
+
 ---
 
 ## 📊 Interactive Visualization
