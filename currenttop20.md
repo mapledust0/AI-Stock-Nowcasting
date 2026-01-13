@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260112)
+## AI's Choice of winners today (20260113)
 
-- Ionis Pharmaceuticals Inc
-- Ultragenyx Pharmaceutical Inc
-- Envista Holdings Corp
-- Valero Energy Corp
-- Alphabet A
-- Vertex Pharmaceuticals Inc
-- Lennar Corp
-- Simpson Manufacturing Co Inc
-- Enovis Corp
-- nVent Electric PLC
-- MKS Inc
-- Alnylam Pharmaceuticals Inc
-- Natera Inc
-- CACI International Inc
-- Insulet Corp
-- Las Vegas Sands Corp
-- Shift4 Payments Inc
-- Apple Inc
-- Generac Holdings Inc
-- BioMarin Pharmaceutical Inc
+- Exact Sciences Corp
+- Reinsurance Group of America Inc
+- Bank of New York Mellon Corp/The
+- Old Republic International Corp
+- Fortrea Holdings Inc
+- Synchrony Financial
+- Applied Materials Inc
+- Howard Hughes Holdings Inc
+- State Street Corp
+- Morgan Stanley
+- Affirm Holdings Inc
+- EMCOR Group Inc
+- Alcoa Corp
+- Delta Air Lines Inc
+- Duolingo Inc
+- Hilton Worldwide Holdings Inc
+- Hanover Insurance Group Inc/The
+- Henry Schein Inc
+- National Storage Affiliates Trust
+- Onto Innovation Inc
