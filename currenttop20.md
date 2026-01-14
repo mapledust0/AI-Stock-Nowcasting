@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260113)
+## AI's Choice of winners today (20260114)
 
-- Exact Sciences Corp
-- Reinsurance Group of America Inc
-- Bank of New York Mellon Corp/The
-- Old Republic International Corp
-- Fortrea Holdings Inc
-- Synchrony Financial
-- Applied Materials Inc
-- Howard Hughes Holdings Inc
-- State Street Corp
-- Morgan Stanley
-- Affirm Holdings Inc
+- Citigroup Inc
+- Mastercard Inc
+- Wells Fargo & Co
+- Texas Pacific Land Corp
+- UWM Holdings Corp
+- Scotts Miracle-Gro Co/The
+- Freeport-McMoRan Inc
+- 10X Genomics Inc
+- Cardinal Health Inc
+- Visa Inc
+- Rockwell Automation Inc
+- GoDaddy Inc
 - EMCOR Group Inc
-- Alcoa Corp
-- Delta Air Lines Inc
-- Duolingo Inc
-- Hilton Worldwide Holdings Inc
-- Hanover Insurance Group Inc/The
-- Henry Schein Inc
-- National Storage Affiliates Trust
-- Onto Innovation Inc
+- Pure Storage Inc
+- Goldman Sachs Group Inc/The
+- Elastic NV
+- Royal Gold Inc
+- QUALCOMM Inc
+- Adobe Inc
+- Regions Financial Corp
