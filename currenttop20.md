@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260114)
+## AI's Choice of winners today (20260115)
 
-- Citigroup Inc
-- Mastercard Inc
-- Wells Fargo & Co
-- Texas Pacific Land Corp
+- Blackrock Inc
+- Morgan Stanley
+- Workday Inc
+- SoFi Technologies Inc
+- Manhattan Associates Inc
 - UWM Holdings Corp
-- Scotts Miracle-Gro Co/The
-- Freeport-McMoRan Inc
-- 10X Genomics Inc
-- Cardinal Health Inc
-- Visa Inc
+- Schlumberger NV
+- Teledyne Technologies Inc
 - Rockwell Automation Inc
 - GoDaddy Inc
-- EMCOR Group Inc
+- Honeywell International Inc
+- Charles Schwab Corp/The
+- Revvity Inc
+- BOK Financial Corp
+- Kinsale Capital Group Inc
+- ServiceNow Inc
 - Pure Storage Inc
-- Goldman Sachs Group Inc/The
-- Elastic NV
-- Royal Gold Inc
-- QUALCOMM Inc
-- Adobe Inc
-- Regions Financial Corp
+- Labcorp Holdings Inc
+- IDEX Corp
+- Veeva Systems Inc
