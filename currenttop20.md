@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260115)
+## AI's Choice of winners today (20260116)
 
-- Blackrock Inc
-- Morgan Stanley
-- Workday Inc
-- SoFi Technologies Inc
-- Manhattan Associates Inc
-- UWM Holdings Corp
-- Schlumberger NV
-- Teledyne Technologies Inc
-- Rockwell Automation Inc
-- GoDaddy Inc
-- Honeywell International Inc
-- Charles Schwab Corp/The
-- Revvity Inc
+- Western Digital Corp
 - BOK Financial Corp
-- Kinsale Capital Group Inc
-- ServiceNow Inc
-- Pure Storage Inc
-- Labcorp Holdings Inc
-- IDEX Corp
-- Veeva Systems Inc
+- EMCOR Group Inc
+- Nasdaq Inc
+- Moody's Corp
+- NewMarket Corp
+- PNC Financial Services Group Inc/The
+- Roper Technologies Inc
+- Wintrust Financial Corp
+- Delta Air Lines Inc
+- Sandisk Corp/DE
+- Blackrock Inc
+- Kirby Corp
+- Caesars Entertainment Inc
+- Curtiss-Wright Corp
+- East West Bancorp Inc
+- Coterra Energy Inc
+- MKS Inc
+- Woodward Inc
+- Invesco Ltd
