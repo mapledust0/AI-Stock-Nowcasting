@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260116)
+## AI's Choice of winners today (20260120)
 
-- Western Digital Corp
-- BOK Financial Corp
-- EMCOR Group Inc
-- Nasdaq Inc
-- Moody's Corp
-- NewMarket Corp
-- PNC Financial Services Group Inc/The
-- Roper Technologies Inc
-- Wintrust Financial Corp
-- Delta Air Lines Inc
-- Sandisk Corp/DE
-- Blackrock Inc
-- Kirby Corp
-- Caesars Entertainment Inc
-- Curtiss-Wright Corp
-- East West Bancorp Inc
-- Coterra Energy Inc
-- MKS Inc
-- Woodward Inc
-- Invesco Ltd
+- First Industrial Realty Trust Inc
+- Netflix Inc
+- Standardaero Inc
+- US Bancorp
+- CACI International Inc
+- Teledyne Technologies Inc
+- AppLovin Corp
+- Spotify Technology SA
+- MicroStrategy Inc
+- Fifth Third Bancorp
+- Westinghouse Air Brake Technologies Corp
+- AGNC Investment Corp
+- Vistra Corp
+- Copart Inc
+- FNB Corp/PA
+- Travel + Leisure Co
+- RB Global Inc
+- Halliburton Co
+- Millrose Properties Inc
+- Marsh & McLennan Cos Inc
