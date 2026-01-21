@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260120)
+## AI's Choice of winners today (20260121)
 
-- First Industrial Realty Trust Inc
-- Netflix Inc
-- Standardaero Inc
-- US Bancorp
-- CACI International Inc
-- Teledyne Technologies Inc
-- AppLovin Corp
-- Spotify Technology SA
-- MicroStrategy Inc
-- Fifth Third Bancorp
-- Westinghouse Air Brake Technologies Corp
-- AGNC Investment Corp
-- Vistra Corp
-- Copart Inc
-- FNB Corp/PA
-- Travel + Leisure Co
-- RB Global Inc
+- Corpay Inc
+- General Motors Co
+- BOK Financial Corp
+- Lumentum Holdings Inc
+- United Airlines Holdings Inc
+- Ally Financial Inc
+- S&P Global Inc
+- Citizens Financial Group Inc
+- Wintrust Financial Corp
+- Organon & Co
+- Cisco Systems Inc
+- Constellation Energy Corp
+- Western Digital Corp
+- Church & Dwight Co Inc
+- Targa Resources Corp
 - Halliburton Co
-- Millrose Properties Inc
-- Marsh & McLennan Cos Inc
+- Micron Technology Inc
+- Zions Bancorp NA
+- Charles Schwab Corp/The
+- Fair Isaac Corp
