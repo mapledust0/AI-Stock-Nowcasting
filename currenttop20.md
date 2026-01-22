@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260121)
+## AI's Choice of winners today (20260122)
 
-- Corpay Inc
-- General Motors Co
-- BOK Financial Corp
-- Lumentum Holdings Inc
-- United Airlines Holdings Inc
-- Ally Financial Inc
-- S&P Global Inc
-- Citizens Financial Group Inc
-- Wintrust Financial Corp
-- Organon & Co
-- Cisco Systems Inc
-- Constellation Energy Corp
+- General Electric Co
+- 3M Co
 - Western Digital Corp
-- Church & Dwight Co Inc
-- Targa Resources Corp
-- Halliburton Co
-- Micron Technology Inc
-- Zions Bancorp NA
-- Charles Schwab Corp/The
-- Fair Isaac Corp
+- GameStop Corp
+- Somnigroup International Inc
+- Freeport-McMoRan Inc
+- Standardaero Inc
+- East West Bancorp Inc
+- AAON Inc
+- MSCI Inc
+- First Citizens BancShares Inc/NC
+- FNB Corp/PA
+- Cirrus Logic Inc
+- Wintrust Financial Corp
+- Chevron Corp
+- Seaboard Corp
+- Commerce Bancshares Inc/MO
+- PACCAR Inc
+- CF Industries Holdings Inc
+- Dynatrace Inc
