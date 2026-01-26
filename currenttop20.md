@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260123)
+## AI's Choice of winners today (20260126)
 
-- First Citizens BancShares Inc/NC
-- Inspire Medical Systems Inc
-- Webster Financial Corp
-- First Hawaiian Inc
-- Micron Technology Inc
-- SLM Corp
-- GameStop Corp
-- Roku Inc
-- TransDigm Group Inc
-- Charles Schwab Corp/The
-- Iridium Communications Inc
-- NVIDIA Corp
-- Schlumberger NV
-- CACI International Inc
-- Northrop Grumman Corp
-- Organon & Co
-- Amazon.com Inc
-- Kenvue Inc
-- Kinder Morgan Inc
-- Intuit Inc
+- Nucor Corp
+- ServiceNow Inc
+- Steel Dynamics Inc
+- Antero Resources Corp
+- Crane Co
+- Baker Hughes Co
+- Freeport-McMoRan Inc
+- Sarepta Therapeutics Inc
+- Houlihan Lokey Inc
+- TechnipFMC PLC
+- Microsoft Corp
+- Newmont Corp
+- Fair Isaac Corp
+- Manhattan Associates Inc
+- Coherent Corp
+- US Foods Holding Corp
+- FNB Corp/PA
+- Under Armour Inc
+- Western Alliance Bancorp
+- Booz Allen Hamilton Holding Corp
