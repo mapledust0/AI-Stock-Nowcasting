@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260126)
+## AI's Choice of winners today (20260127)
 
-- Nucor Corp
-- ServiceNow Inc
-- Steel Dynamics Inc
-- Antero Resources Corp
-- Crane Co
-- Baker Hughes Co
-- Freeport-McMoRan Inc
-- Sarepta Therapeutics Inc
-- Houlihan Lokey Inc
-- TechnipFMC PLC
-- Microsoft Corp
-- Newmont Corp
-- Fair Isaac Corp
 - Manhattan Associates Inc
-- Coherent Corp
-- US Foods Holding Corp
-- FNB Corp/PA
-- Under Armour Inc
-- Western Alliance Bancorp
+- NextEra Energy Inc
+- Lam Research Corp
+- General Motors Co
+- F5 Inc
+- Gilead Sciences Inc
+- HCA Healthcare Inc
+- GE Vernova Inc
 - Booz Allen Hamilton Holding Corp
+- Darden Restaurants Inc
+- Revvity Inc
+- Antero Resources Corp
+- Avnet Inc
+- Corning Inc
+- Cirrus Logic Inc
+- Popular Inc
+- UnitedHealth Group Inc
+- Cisco Systems Inc
+- MP Materials Corp
+- Ares Management Corp
