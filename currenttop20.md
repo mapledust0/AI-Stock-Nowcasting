@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260127)
+## AI's Choice of winners today (20260129)
 
-- Manhattan Associates Inc
-- NextEra Energy Inc
+- Sandisk Corp/DE
+- Valero Energy Corp
+- Meta Platforms Inc
+- Lockheed Martin Corp
+- Coherent Corp
+- Lumentum Holdings Inc
+- Royal Gold Inc
+- Allegro MicroSystems Inc
+- Tractor Supply Co
+- Royal Caribbean Cruises Ltd
+- Virtu Financial Inc
 - Lam Research Corp
-- General Motors Co
-- F5 Inc
-- Gilead Sciences Inc
-- HCA Healthcare Inc
-- GE Vernova Inc
-- Booz Allen Hamilton Holding Corp
-- Darden Restaurants Inc
-- Revvity Inc
-- Antero Resources Corp
-- Avnet Inc
-- Corning Inc
-- Cirrus Logic Inc
-- Popular Inc
-- UnitedHealth Group Inc
-- Cisco Systems Inc
-- MP Materials Corp
-- Ares Management Corp
+- International Business Machines Corp
+- Axon Enterprise Inc
+- NVIDIA Corp
+- Centene Corp
+- Doximity Inc
+- Oshkosh Corp
+- Kirby Corp
+- Dover Corp
