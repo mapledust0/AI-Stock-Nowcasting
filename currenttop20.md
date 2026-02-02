@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260122)
+## AI's Choice of winners today (20260129)
 
-- General Electric Co
-- 3M Co
-- Western Digital Corp
-- GameStop Corp
-- Somnigroup International Inc
-- Freeport-McMoRan Inc
-- Standardaero Inc
-- East West Bancorp Inc
-- AAON Inc
-- MSCI Inc
-- First Citizens BancShares Inc/NC
-- FNB Corp/PA
-- Cirrus Logic Inc
-- Wintrust Financial Corp
-- Chevron Corp
-- Seaboard Corp
-- Commerce Bancshares Inc/MO
-- PACCAR Inc
-- CF Industries Holdings Inc
-- Dynatrace Inc
+- Sandisk Corp/DE
+- Valero Energy Corp
+- Meta Platforms Inc
+- Lockheed Martin Corp
+- Coherent Corp
+- Lumentum Holdings Inc
+- Royal Gold Inc
+- Allegro MicroSystems Inc
+- Tractor Supply Co
+- Royal Caribbean Cruises Ltd
+- Virtu Financial Inc
+- Lam Research Corp
+- International Business Machines Corp
+- Axon Enterprise Inc
+- NVIDIA Corp
+- Centene Corp
+- Doximity Inc
+- Oshkosh Corp
+- Kirby Corp
+- Dover Corp
