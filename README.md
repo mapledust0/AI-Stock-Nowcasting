@@ -21,6 +21,9 @@ Can fully agentic AI nowcast stock returns? We deploy a state-of-the-art Large L
 
 Our framework is **100% agentic**: we do not feed the model news or curated text; it autonomously searches the web, filters sources, and synthesizes information into quantitative predictions. We find that AI possesses genuine stock selection ability, particularly for identifying top winners. Longing the 20 highest-ranked stocks generates a daily Fama-French five-factor alpha of **18.4 basis points** and an annualized Sharpe ratio of **2.43**.
 
+---
+
+[![View our paper on SSRN](https://img.shields.io/badge/View-SSRN_Paper-blue?style=for-the-badge&logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6134446)
 
 ---
 
@@ -66,9 +69,6 @@ The predictive power is not symmetric. While the AI excels at identifying opport
 ### 3. Alpha Dilution
 The interactive plot demonstrates a critical insight: **predictability is highly concentrated.** Expanding the portfolio beyond the top tier (e.g., moving from Top 20 to Top 200) dilutes alpha.
 
----
-
-[![Read the Paper](https://img.shields.io/badge/Read-PDF_Paper-red?style=for-the-badge&logo=adobeacrobatreader)](./Artificial_Intelligence_ChenPu.pdf)
 
 ---
 
