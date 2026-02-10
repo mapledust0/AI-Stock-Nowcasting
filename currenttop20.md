@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260129)
+## AI's Choice of winners today (20260210)
 
-- Sandisk Corp/DE
-- Valero Energy Corp
-- Meta Platforms Inc
-- Lockheed Martin Corp
-- Coherent Corp
-- Lumentum Holdings Inc
-- Royal Gold Inc
-- Allegro MicroSystems Inc
-- Tractor Supply Co
-- Royal Caribbean Cruises Ltd
-- Virtu Financial Inc
-- Lam Research Corp
-- International Business Machines Corp
-- Axon Enterprise Inc
-- NVIDIA Corp
-- Centene Corp
-- Doximity Inc
-- Oshkosh Corp
-- Kirby Corp
-- Dover Corp
+- Amkor Technology Inc
+- Pegasystems Inc
+- Astera Labs Inc
+- Marsh & McLennan Cos Inc
+- Gitlab Inc
+- Willis Towers Watson PLC
+- S&P Global Inc
+- Xylem Inc/NY
+- Angi Inc
+- Vertiv Holdings Co
+- Hasbro Inc
+- SharkNinja Inc
+- Aon PLC
+- Williams Cos Inc/The
+- Incyte Corp
+- Teradata Corp
+- Spotify Technology SA
+- Aramark
+- AppLovin Corp
+- Arthur J Gallagher & Co
