@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260210)
+## AI's Choice of winners today (20260211)
 
-- Amkor Technology Inc
-- Pegasystems Inc
-- Astera Labs Inc
-- Marsh & McLennan Cos Inc
-- Gitlab Inc
-- Willis Towers Watson PLC
-- S&P Global Inc
-- Xylem Inc/NY
-- Angi Inc
-- Vertiv Holdings Co
-- Hasbro Inc
+- HubSpot Inc
 - SharkNinja Inc
-- Aon PLC
-- Williams Cos Inc/The
-- Incyte Corp
-- Teradata Corp
-- Spotify Technology SA
-- Aramark
+- Pegasystems Inc
 - AppLovin Corp
-- Arthur J Gallagher & Co
+- Westinghouse Air Brake Technologies Corp
+- Curtiss-Wright Corp
+- Lattice Semiconductor Corp
+- Amkor Technology Inc
+- Lithia Motors Inc
+- Tenet Healthcare Corp
+- Guidewire Software Inc
+- Smurfit WestRock PLC
+- Allison Transmission Holdings Inc
+- Kroger Co/The
+- Equinix Inc
+- Kimco Realty Corp
+- MACOM Technology Solutions Holdings Inc
+- Western Digital Corp
+- Snowflake Inc
+- LPL Financial Holdings Inc
