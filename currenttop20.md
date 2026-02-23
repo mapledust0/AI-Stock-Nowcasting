@@ -1,22 +1,22 @@
-## AI's Choice of winners today (20260211)
+## AI's Choice of winners today (20260223)
 
-- HubSpot Inc
-- SharkNinja Inc
-- Pegasystems Inc
-- AppLovin Corp
-- Westinghouse Air Brake Technologies Corp
-- Curtiss-Wright Corp
-- Lattice Semiconductor Corp
-- Amkor Technology Inc
-- Lithia Motors Inc
-- Tenet Healthcare Corp
-- Guidewire Software Inc
-- Smurfit WestRock PLC
-- Allison Transmission Holdings Inc
-- Kroger Co/The
-- Equinix Inc
-- Kimco Realty Corp
-- MACOM Technology Solutions Holdings Inc
+- Johnson Controls International plc
+- HEICO Corp
+- RB Global Inc
+- Affiliated Managers Group Inc
+- Warner Bros Discovery Inc
+- Salesforce Inc
+- Light & Wonder Inc
 - Western Digital Corp
-- Snowflake Inc
-- LPL Financial Holdings Inc
+- Liberty Media Corp-Liberty Live
+- Leidos Holdings Inc
+- Freeport-McMoRan Inc
+- Roivant Sciences Ltd
+- Tapestry Inc
+- Broadcom Inc
+- Ralph Lauren Corp
+- Iron Mountain Inc
+- Intercontinental Exchange Inc
+- EMCOR Group Inc
+- General Motors Co
+- Celsius Holdings Inc
