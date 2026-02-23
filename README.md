@@ -34,6 +34,7 @@ Our framework is **100% agentic**: we do not feed the model news or curated text
 * **Constraint:** Strict Nowcasting. All predictions are generated after market close ($t-1$) and before market open ($t$) to eliminate look-ahead bias.
 * **Signal:** An attractiveness score ranging from -5 (Strong Sell) to +5 (Strong Buy).
 * **Implementation:** Entering position at opening auction of day t and liquidating at opening auction of day t+1. 
+* **Portfolio Construction:** Value-weighted Portfolio with a value cap of 20\% for a single stock.
 
 ---
 
