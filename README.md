@@ -53,7 +53,9 @@ This project hosts the interactive results for the paper *Autonomous Market Inte
 
 ### Static Figure: Top-20 Value-Weighted Portfolio Cumulative Return
 
-![Top-20 Value-Weighted Portfolio Cumulative Return](cumret_daily_top20_vw.png)
+![Top-20 Value-Weighted Portfolio Cumulative Return](figs/cumret/cumret_daily_top20_vw_cap20r.png)
+
+* Figs and Tables subfolders contain additional results! 
 
 ---
 
