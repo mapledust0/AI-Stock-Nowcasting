@@ -1,0 +1,15 @@
+\begin{table}[!htbp]\centering
+\caption{Exact Top-20 contribution attribution by retrieval and reasoning bucket}
+\label{tab:deep_rr_attribution}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+bucket & label & mean\_contribution\_pct & mean\_t & mean\_p & share\_of\_mean\_return & alpha\_contribution\_pct & alpha\_t & alpha\_p & share\_of\_total\_alpha & avg\_names \\
+\midrule
+joint\_search\_analysis & Joint search + analysis & 0.027 & 0.816 & 0.415 & 0.122 & 0.033 & 1.063 & 0.288 & 0.182 & 5.230 \\
+search\_dominant & Search-dominant & 0.058 & 2.028 & 0.043 & 0.263 & 0.072 & 2.085 & 0.037 & 0.396 & 4.083 \\
+analysis\_dominant & Analysis-dominant & 0.085 & 2.435 & 0.015 & 0.385 & 0.074 & 2.296 & 0.022 & 0.406 & 4.210 \\
+neither\_high & Neither high & 0.051 & 1.487 & 0.137 & 0.230 & 0.003 & 0.102 & 0.919 & 0.016 & 5.000 \\
+total & Total Top20 with reports & 0.221 & 2.471 & 0.013 & 1.000 & 0.183 & 2.326 & 0.020 & 1.000 & 18.524 \\
+\bottomrule
+\end{tabular}
+\end{table}

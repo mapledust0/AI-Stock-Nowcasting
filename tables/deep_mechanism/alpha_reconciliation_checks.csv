@@ -1,0 +1,3 @@
+check,common_dates,max_abs_diff
+Step1a CSV versus Step1a parquet daily returns,263,0.0
+Step1a parquet versus mechanism helper daily returns,263,1.7233783844439188e-12
